@@ -23,3 +23,5 @@ or unaccented. Useful for *Natural Language Processing* algorithms.
 >>> PortugueseStopWords().get_unaccented()
 ['houveramos', 'quem', 'houveram', 'nossos', 'serei', ... ]
 ~~~
+
+Stop Words database from [António Lopes](https://github.com/alopes): https://gist.github.com/alopes/5358189
